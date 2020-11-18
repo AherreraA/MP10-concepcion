@@ -10,8 +10,8 @@ library(tidyverse)
 ############ Spatial data ############
 ###### Geographical layer ######
 # We read the shapefile, that contains the geographical layer for the Region del Bio Bio
-#unzip(zipfile = "input/Límites-shp.zip")
-biobio <- st_read(dsn = "input/Limites-shp/L%C3%ADmites.shp")
+unzip(zipfile = "input/Limites-shp.zip", exdir = "input")
+biobio <- st_read(dsn = "input/L%C3%ADmites.shp")
 
 # We filter the boundaries for the Concepcion province.
 prov_conce <- biobio[biobio$NOM_PROVIN == "CONCEPCIÓN", ]
