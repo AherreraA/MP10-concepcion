@@ -1,0 +1,25 @@
+﻿OBJECTID,nombre,key,latitud,longitud,comuna,red,region,regioninde,calificaci,empresa,zona,x,y
+69,Consultorio - San Vicente,802,-36.7236951418,-73.1236588652,Talcahuano,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,131678.4285096834,5927844.913360429
+70,JUNJI,804,-36.780632,-73.115657,Hualpén,ENAP Biobío,Región del Biobío,10,Privada,ENAP, ,132665.63710922853,5921555.125957619
+71,Bocatoma,805,-36.803034,-73.120527,Hualpén,ENAP Biobío,Región del Biobío,10,Privada,ENAP, ,132338.0622928671,5919049.510701602
+72,Inpesca,806,-36.737202,-73.104427,Talcahuano,ENAP Biobío,Región del Biobío,10,Privada,ENAP, ,133461.39359771577,5926419.437723981
+73,Indura,807,-36.769803,-73.113708,Talcahuano,ENAP Biobío,Región del Biobío,10,Privada,ENAP, ,132787.91431538918,5922764.755826661
+74,Calabozo,809,-36.9964309604,-73.1158053572,Coronel,Colbun - Coronel,Región del Biobío,10,Privada,Colbún S.A,Coronel,133687.15864656912,5897598.3530011345
+75,"INIA, Chillán",810,-36.5948808865,-72.0892536505,Chillán,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,223639.93545243068,5945623.243807854
+76,Coronel Sur,816,-37.031702,-73.138689,Coronel,Colbun - Coronel,Región del Biobío,10,Privada,Colbún S.A,Coronel,131820.07002856344,5893594.3028692715
+77,Club de Empleados,818,-37.5018445658,-72.6764059067,Nacimiento,CMPC Santa Fe,Región del Biobío,10,Privada,CMPC PULP SpA, ,174992.0079628158,5843101.150565879
+78,Laja,826,-37.2678031387,-72.7106952667,Laja,CMPC Laja,Región del Biobío,10,Privada,CMPC PULP SpA, ,170936.60132144316,5868961.054718483
+79,Kingston College,827,-36.7846537411,-73.0520630258,Concepción,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,138363.23683532968,5921351.443767768
+80,Liceo Polivalente,830,-36.6017132114,-72.9585228307,Tomé,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,145875.6140966019,5942008.719664331
+81,Cerro Merquín,831,-37.0211828777,-73.1495555509,Coronel,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente,Coronel,130801.8907617695,5894719.870874248
+82,Balneario Curanilahue,832,-37.4851316926,-73.3316264735,Curanilahue,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,116955.95996375981,5842487.1650020415
+83,Nueva Libertad,837,-36.735998,-73.118693,Talcahuano,CAP - Talcahuano,Región del Biobío,10,Privada,Compañía Siderurgica Huachipato, ,132181.0100253091,5926498.288445173
+84,ENAP Price,838,-36.791231,-73.119152,Hualpén,ENAP Biobío,Región del Biobío,10,Privada,ENAP, ,132404.28782119113,5920365.069799522
+85,Hualqui,841,-36.9774314878,-72.9320177133,Hualqui,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente,Coronel,149964.60826732183,5900400.15901407
+86,Entre Ríos,852,-37.5036040187,-72.6596661022,Nacimiento,CMPC Santa Fe,Región del Biobío,10,Privada,CMPC PULP SpA, ,176479.9995730099,5842963.62466794
+87,Punteras,854,-36.923329603,-73.0361323009,Chiguayante,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente,Coronel,140437.18590633234,5906017.498789953
+88,Lautaro,870,-37.5089379924,-72.6560926178,Nacimiento,CMPC Santa Fe,Región del Biobío,10,Privada,CMPC PULP SpA, ,176819.04715834203,5842383.844636199
+89,Puren,873,-36.6161677517,-72.0930405585,Chillán,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,223377.18582956173,5943250.06822644
+90,Los Ángeles Oriente,874,-37.4630350648,-72.3245751555,Los Angeles,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,205952.46921988233,5848567.323262269
+91,21 de mayo,875,-37.4711822887,-72.3614628498,Los Angeles,MMA Biobío,Región del Biobío,10,Pública,Sub Secretaría del Medio Ambiente, ,202721.21054971858,5847547.091632744
+92,Coronel Norte,878,-37.009021344,-73.1490969658,Coronel,Colbun - Coronel,Región del Biobío,10,Privada,Colbún S.A,Coronel,130783.74925649975,5896071.755747457
